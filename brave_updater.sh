@@ -38,7 +38,7 @@ sudo flatpak update -y
 
 echo "Updating Brave packages..."
 
-chmod +x /home/ice/Brave-Browser-Manager-main/launcher.sh
-sh /home/ice/Brave-Browser-Manager-main/launcher.sh
+chmod +x /home/$USER/Brave-Browser-Manager-main/launcher.sh
+sh /home/$USER/Brave-Browser-Manager-main/launcher.sh
 
 
